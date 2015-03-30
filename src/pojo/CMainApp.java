@@ -3,7 +3,7 @@ package pojo;
 /**
  * Created by ivann on 27.03.15.
  */
-class CMainApp {
+public class CMainApp {
 
 
     public static void main(String[] argv)

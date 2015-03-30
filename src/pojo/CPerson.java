@@ -3,7 +3,7 @@ package pojo;
 /**
  * Created by ivann on 27.03.15.
  */
-class CPerson {
+public final class CPerson {
 
 
     final private String name;
