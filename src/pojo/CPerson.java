@@ -4,7 +4,7 @@ package pojo;
  * Created by ivann on 27.03.15.
  */
 public final class CPerson {
-
+//local code review (vtegza): private static final Type @ 01.04.15
 
     final private String name;
     final private String surName;
